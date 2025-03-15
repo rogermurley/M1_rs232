@@ -10,3 +10,8 @@ This design replicates the operation of the original board, ensuring compatibili
   2. Sense switch (DIP switch configuration) functionality is removed, so that the interface must be configured via software
   3. The TERM/COMM switch has been removed. The unit is configured in TERM (DTE) mode, and an external null-modem adapter must be used if operation as a DCE device is required.
   4. IC selection eliminated the need for +12/-12/-5 supply rails. +5V is the only supply needed.
+
+BOM notes:
+  1. U3 is a DIP 74LS155 only because I had DIP 74LS155s in my inventory.
+  2. J1 is PCB fingers on the underside of the board, which press-fit against the Expansion Interface add-on connector
+  3. Y1 should be an AT-cut crystal with an ESR of <= 50 ohms
