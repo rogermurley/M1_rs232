@@ -4,7 +4,7 @@ RS-232 interface board for the TRS-80 Model I Expansion Interface
 ![image](https://github.com/user-attachments/assets/7a44d132-25f3-436f-8121-187a92cc4494)
 
 I created this design partly out of necessity, as original Radio Shack serial interfaces are scarce, and as a project to learn KiCad.
-** This board is untested, as of yet, as I wait for all compnents to arrive **
+** DO NOT BUILD THIS. It contains a major error. Please wait for the next revision. **
 
 This design replicates the operation of the original board, ensuring compatibility with existing Model I software. Hardware-wise, there are a few differences:
   1. SMT components are used wherever possible, to minimize cost
