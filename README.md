@@ -22,3 +22,5 @@ Please stay tuned for version 2 of this board, which will add a few quality-of-l
   2. a jumper for RXD/TXD loopback will be added for ease of testing
   3. jumpers for disabling the line driver, and breakout headers for TTL-level signals will be added, for the easy addition of an ESP8266-based WiFimodem internally
   4. headers for VCC and Gnd will also be added, for the same reason
+
+![image](https://github.com/user-attachments/assets/92e6d287-44f9-453f-8f8f-92b92f035214)
