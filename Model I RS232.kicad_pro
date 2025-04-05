@@ -408,6 +408,14 @@
         ""
       ],
       [
+        "pin_to_pin|2654300|444500|0c3a74aa-f6b5-4642-bca8-40458ca74b6d|b7a9a961-76e4-42f3-ab3d-9bb8172a3e9c|/f25b8ff3-9948-48c5-b739-82011283733b|/f25b8ff3-9948-48c5-b739-82011283733b|/f25b8ff3-9948-48c5-b739-82011283733b",
+        ""
+      ],
+      [
+        "pin_to_pin|2654300|469900|2c77eb18-a9a6-4bfd-9286-800651bf2aae|0c3a74aa-f6b5-4642-bca8-40458ca74b6d|/f25b8ff3-9948-48c5-b739-82011283733b|/f25b8ff3-9948-48c5-b739-82011283733b|/f25b8ff3-9948-48c5-b739-82011283733b",
+        ""
+      ],
+      [
         "pin_to_pin|2654300|469900|2c77eb18-a9a6-4bfd-9286-800651bf2aae|b7a9a961-76e4-42f3-ab3d-9bb8172a3e9c|/f25b8ff3-9948-48c5-b739-82011283733b|/f25b8ff3-9948-48c5-b739-82011283733b|/f25b8ff3-9948-48c5-b739-82011283733b",
         ""
       ],
@@ -848,7 +856,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "./",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",

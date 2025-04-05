@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "9.0.0"
     },
-    "CreationDate": "2025-03-16T19:10:30-05:00"
+    "CreationDate": "2025-04-05T18:35:01-05:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "Model I RS232",
       "GUID": "4d6f6465-6c20-4492-9052-533233322e6b",
-      "Revision": "rev?"
+      "Revision": "1.1"
     },
     "Size": {
       "X": 114.4,
