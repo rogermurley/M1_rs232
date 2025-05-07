@@ -17,7 +17,7 @@ This design replicates the operation of the original board, ensuring compatibili
 BOM notes:
   1. U3 is a DIP 74LS155 only because I had DIP 74LS155s in my inventory.
   2. J1 is PCB fingers on the underside of the board, which press-fit against the Expansion Interface add-on connector.
-  3. Y1 must be an AT-cut crystal with an ESR of <= 50 ohms in order to function properly with the 8116 baud rate generator.
+  3. Y1 must be an AT-cut series type crystal with an ESR of <= 50 ohms in order to function properly with the 8116 baud rate generator.
 
 Please stay tuned for version 2 of this board, which will add a few quality-of-life enhancements:
   1. U3 will be changed to an SMT part to match
