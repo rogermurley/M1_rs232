@@ -1,9 +1,12 @@
 # M1_rs232
-RS-232 interface board for the TRS-80 Model I Expansion Interface, version 1.1
+RS-232 interface board for the TRS-80 Model I Expansion Interface, version 1.1 [DEPRECATED]
 
 ![image](https://github.com/user-attachments/assets/957077d5-4cde-4494-880d-45691ff9e3f8)
 
-** I have been informed that U9 has an incorrect footprint. The ICs are generally only available in SSOP packaging, but the footprint was somehow changed to TSSOP between version 1.0 and 1.1. Version 2.0 is in the pipeline, so beware if having boards made. **
+* DO NOT BUILD THIS VERSION. In addition to other minor errors which slipped through, the footprint for U9 is incorrect.
+* I will be releasing the design for version 2 shortly, which is built, tested, and working.
+* I will also be providing information on how to purchase assembled and tested boards.
+* Please stay tuned.
 
 I created this design partly out of necessity, as original Radio Shack serial interfaces are scarce, and as a project to learn KiCad.
 Version 1.1 fixes a nasty error which caused the line driver (U9) to be in permanent shutdown mode.  It also fixes some minor mechanical interference between the PCB and the expansion interface's chassis.
