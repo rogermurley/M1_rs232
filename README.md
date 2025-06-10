@@ -3,7 +3,7 @@ RS-232 interface board for the TRS-80 Model I Expansion Interface, version 2.1
 
 ![ver2 1onwhite](https://github.com/user-attachments/assets/f19f780a-49bd-477e-9bf6-7d73497f70b4)
 
-### If you would like to purchase turnkey assembled and tested units, please visit my site at https://byteshiftmusic.com/trs-80-model-i-rs-232-interface-re-creation/
+### If you would like to purchase turnkey assembled and tested units, or bare PCBs, please visit my site at https://byteshiftmusic.com/trs-80-model-i-rs-232-interface-re-creation/
 
 I also have available a PCB for adapting the 40-pin edge card (J1) on the Expansion Interface to an IDC26 header, so that a standard PC parallel port DB25 pigtail can be used. Please see the link above for those, as well.
 
@@ -26,6 +26,7 @@ BOM notes:
   2. J2, J3, J4, and J5 are standard 2.54mm pitch single row headers, 11 pins in total
   3. Y1 must be an AT-cut series type crystal with an ESR of <= 50 ohms in order to function properly with the 8116 baud rate generator.
   4. U1 and U2 must be purchased used or as old stock. Ebay is a good source.
+  5. U2's COM8116 can be substituted with a Western Digital WD1943. Please ensure that the IC that you purchase is the variant which uses a 5.0688 MHz crystal and produces a 16x baud clock.
 
 ![ver2 1rendertop](https://github.com/user-attachments/assets/b976ff87-9051-41f3-b0d4-23632e2d3a72)
 ![ver2 1renderbottom](https://github.com/user-attachments/assets/cc7605ea-8bd6-4db8-8544-185ae1ba39f9)
