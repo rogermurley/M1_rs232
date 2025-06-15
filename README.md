@@ -26,7 +26,7 @@ BOM notes:
   2. J2, J3, J4, and J5 are standard 2.54mm pitch single row headers, 11 pins in total
   3. Y1 must be an AT-cut series type crystal with an ESR of <= 50 ohms in order to function properly with the 8116 baud rate generator.
   4. U1 and U2 must be purchased used or as old stock. Ebay is a good source.
-  5. U2's COM8116 can be substituted with a Western Digital WD1943. Please ensure that the IC that you purchase is the variant which uses a 5.0688 MHz crystal and produces a 16x baud clock.
+  5. U2's COM8116 can be substituted with a Western Digital WD1943. Please ensure that the IC that you purchase is the variant (typically with a -00 suffix) which uses a 5.0688 MHz crystal and produces a 16x baud clock. If you have the -05 variant which uses a 4.9152 MHz crystal, this may work by substituting the proper crystal for Y1, but this has not been tested. The -06 variant, which generates a 32x baud clock, will NOT work with this UART.
 
 ![ver2 1rendertop](https://github.com/user-attachments/assets/b976ff87-9051-41f3-b0d4-23632e2d3a72)
 ![ver2 1renderbottom](https://github.com/user-attachments/assets/cc7605ea-8bd6-4db8-8544-185ae1ba39f9)
