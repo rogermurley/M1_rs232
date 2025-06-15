@@ -30,3 +30,5 @@ BOM notes:
 
 ![ver2 1rendertop](https://github.com/user-attachments/assets/b976ff87-9051-41f3-b0d4-23632e2d3a72)
 ![ver2 1renderbottom](https://github.com/user-attachments/assets/cc7605ea-8bd6-4db8-8544-185ae1ba39f9)
+
+This project is released under the [CERN Open Hardware Licence Version 2 - Strongly Reciprocal](https://gitlab.com/ohwr/project/cernohl/-/blob/master/licence_texts/cern_ohl_w_v2.txt?ref_type=heads). Copyright 2025 Roger Murley.
